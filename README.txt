@@ -1,51 +1,30 @@
-
-TITLE: 
-Shape - 100% Fully Responsive Free HTML5 Bootstrap Template
-
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
-
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+Editorial by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-CREDITS:
+Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
+sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
+page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
+template I'd change it up a little. Enjoy :)
 
-Bootstrap
-http://getbootstrap.com/
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-jQuery
-http://jquery.com/
+(* = not included)
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+AJ
+aj@lkn.io | @ajlkn
 
-Modernizr
-http://modernizr.com/
 
-Google Fonts
-https://www.google.com/fonts/
+Credits:
 
-Icomoon
-https://icomoon.io/app/
+	Demo Images:
+		Unsplash (unsplash.com)
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+	Icons:
+		Font Awesome (fontawesome.io)
 
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-jQuery countTo
-http://www.owlcarousel.owlgraphic.com/
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Demo Images:
-http://pixeden.com
-http://unsplash.com
-
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
