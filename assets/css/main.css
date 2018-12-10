@@ -3909,3 +3909,19 @@ input, select, textarea {
 		.fa-linkedin {
 			font-size: 40px;
 		}
+
+		.my-pic {
+			height: 400px;
+			margin-left: 200px;
+			border: 6px solid white;
+			margin-right: 80px;
+		}
+
+		.inner-in {
+			display: flex;
+			margin-left: 100px;
+		}
+
+		.intro {
+			font-weight: 700;
+		}
