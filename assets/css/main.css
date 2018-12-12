@@ -3925,3 +3925,7 @@ input, select, textarea {
 		.intro {
 			font-weight: 700;
 		}
+
+		#three {
+			margin-left: 18rem;
+		}
