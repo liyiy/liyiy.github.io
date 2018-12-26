@@ -3902,6 +3902,10 @@ input, select, textarea {
 			padding-right: 20px;
 		}
 
+		.fa-angellist {
+			font-size: 40px;
+		}
+
 		.fa-github {
 			font-size: 40px;
 		}
