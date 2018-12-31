@@ -3914,6 +3914,11 @@ input, select, textarea {
 			font-size: 40px;
 		}
 
+		.fa-file-pdf-o {
+			font-size: 40px;
+			margin-top: 0;
+		}
+
 		.my-pic {
 			height: 400px;
 			margin-left: 200px;
